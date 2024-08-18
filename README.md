@@ -1,12 +1,12 @@
 ## Olá, bem-vindo ao meu perfil Github! 👋
 
-- Meu nome é Felipe Mascena e sou estudante de Front-End Development, from RJ, Brazil 🇧🇷
+- *Meu nome é* **Felipe Mascena** *e sou estudante de* **Front-End Development**, *from RJ, Brazil* 🇧🇷
 
 ## Sobre mim
-- ⚡ Apaixonado por Tecnologia;
-- 📚 Cursando Análise e Desenvolvimento de Sistemas;
-- 📖 Cursando Engenharia de Software;
-- 🚀 Cursando Front-End Development.
+- ⚡ *Apaixonado por Tecnologia;*
+- 📚 *Cursando Análise e Desenvolvimento de Sistemas;*
+- 📖 *Cursando Engenharia de Software;*
+- 🚀 *Cursando Front-End Development.*
 
 
 ## Aplicações
