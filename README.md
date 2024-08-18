@@ -8,28 +8,8 @@
 - 📖 Cursando Engenharia de Software;
 - 🚀 Cursando Front-End Development.
 
-## Redes Sociais
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-mascena/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:felipe.mascena.dev@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/f_mascena/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?&logo=whatsapp&logoColor=white)](https://wa.me/55+21+979298951)
-
-
-
-##
-<a href="https://github.com/fmascena-dev">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fmascena-dev&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmascena-dev&layout=compact&langs_count=10&theme=highcontrast"/></a>
-
-
-
 
 ## Aplicações
-
-<h3 align="left">Aplicações</h3>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -43,11 +23,8 @@
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
 </div>
 
-###
 
-<h3 align="left">Estudando</h3>
-
-###
+## Estudando
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -65,9 +42,7 @@
 
 ###
 
-<h3 align="left">DevOps</h3>
-
-###
+## DevOps
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
@@ -77,11 +52,7 @@
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
 
-###
-
-<h3 align="left">Ferramentas de desenvolvimento</h3>
-
-###
+## Ferramentas de desenvolvimento
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
@@ -91,11 +62,7 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
-###
-
-<h3 align="left">Status</h3>
-
-###
+## Status
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=fmascena-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -104,4 +71,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fmascena-dev&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+## Redes Sociais
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-mascena/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:felipe.mascena.dev@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/f_mascena/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?&logo=whatsapp&logoColor=white)](https://wa.me/5521979298951)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?&logo=facebook&logoColor=white)](https://www.facebook.com/felipe.mascena17/)
+[![Telegram](https://img.shields.io/badge/Telegram-1877F2?&logo=telegram&logoColor=white)](https://t.me/felipe_mascena17)
