@@ -78,4 +78,4 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/f_mascena/ target="_blank")
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?&logo=whatsapp&logoColor=white)](https://wa.me/5521979298951 target="_blank")
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?&logo=facebook&logoColor=white)](https://www.facebook.com/felipe.mascena17/ target="_blank")
-[![Telegram](https://img.shields.io/badge/Telegram-1877F2?&logo=telegram&logoColor=white)](https://t.me/felipe_mascena17 target="_blank")
+[![Telegram](https://img.shields.io/badge/Telegram-1877F2?&logo=telegram&logoColor=white)](https://t.me/felipe_mascena17 [target="_blank"])
