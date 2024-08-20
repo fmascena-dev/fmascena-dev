@@ -73,7 +73,7 @@
 
 ## Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-mascena/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/felipe-mascena/" target="_blanck")
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:felipe.mascena.dev@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/f_mascena/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?&logo=whatsapp&logoColor=white)](https://wa.me/5521979298951)
