@@ -75,7 +75,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white) <a href"https://www.linkedin.com/in/felipe-mascena/" target= "_blank"></a>]
 
-<a href="https://www.linkedin.com/in/felipe-mascena/" target= "_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/felipe-mascena/" target= "_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white" target="_blank"/></a>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:felipe.mascena.dev@gmail.com) 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/f_mascena/ )
