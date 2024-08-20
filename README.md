@@ -76,6 +76,6 @@
 [![LinkedIn target="_blanck"](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-mascena/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:felipe.mascena.dev@gmail.com) 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/f_mascena/ )
-[![WhatsApp target="_blank"](https://img.shields.io/badge/WhatsApp-25D366?&logo=whatsapp&logoColor=white)](https://wa.me/5521979298951)
+[![WhatsApp target="_blank"](https://img.shields.io/badge/WhatsApp-25D366?&logo=whatsapp&logoColor=white)](https://wa.me/5521979298951 target="_blank")
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?&logo=facebook&logoColor=white)](https://www.facebook.com/felipe.mascena17/)
 [![Telegram](https://img.shields.io/badge/Telegram-1877F2?&logo=telegram&logoColor=white)](https://t.me/felipe_mascena17)
