@@ -79,7 +79,3 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?&logo=whatsapp&logoColor=white)](https://wa.me/5521979298951)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?&logo=facebook&logoColor=white)](https://www.facebook.com/felipe.mascena17/)
 [![Telegram](https://img.shields.io/badge/Telegram-1877F2?&logo=telegram&logoColor=white)](https://t.me/felipe_mascena17)
-
-<img src="https://raw.githubusercontent.com/fmascena-dev/fmascena-dev/output/snake.svg" alt="Snake animation" />
-
-###
