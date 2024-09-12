@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-🕵️‍♂️ *From RJ, Brazil* 🇧🇷
+🕵️‍♂️ *From RJ, Brazil* 🇧🇷 <br>
 ⚡ *Apaixonado por Tecnologia;* <br>
 📚 *Cursando Análise e Desenvolvimento de Sistemas;* <br>
 📖 *Cursando Engenharia de Software;* <br>
