@@ -79,7 +79,7 @@
 
 ##
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fmascena-dev&label=Visitantes&color=FF0000&style=plastic" alt="fmascena-dev" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=fmascena-dev&label=Visitantes&color=FF0000&style=plastic" alt="fmascena-dev" /> </p>
 
 ##
 
