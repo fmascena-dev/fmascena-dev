@@ -68,7 +68,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  /> <br>
+
+##
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fmascena-dev&label=Visitantes&color=FF0000&style=plastic" alt="fmascena-dev" /> </p>
+
+##
 
 ## Redes Sociais
 
@@ -85,13 +91,23 @@
 ## Status
 
   <img src="https://github-readme-stats.vercel.app/api?username=fmascena-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fmascena-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  /> <hr>
-  <img src="https://streak-stats.demolab.com?user=fmascena-dev&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> <hr>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fmascena-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+##
+
+  <img src="https://streak-stats.demolab.com?user=fmascena-dev&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+##
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fmascena-dev&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div> <hr>
+</div>
+
+##
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nerko+One&weight=500&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=550&lines=Thank+you+for+visiting+my+profile!;Come+back+soon!" alt="Typing SVG" /></a>
-</div> <hr>
+</div>
+
+##
 
 <p align="center"><img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fmascena-dev/fmascena-dev/output/github-contribution-grid-snake.svg"></p>
