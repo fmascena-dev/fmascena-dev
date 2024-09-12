@@ -4,10 +4,17 @@
 
 <div align="center">
   
-*Meu nome é* **Felipe Mascena** *e sou estudante de* **Front-End Development**, *from RJ, Brazil* 🇧🇷
+**“Somos o que repetidamente fazemos. A excelência, portanto, não é um feito, mas um hábito”** - *Aristóteles*
+
+##
+
+*De acordo com os preceitos de Aristóteles, quando a excelência passa a ser praticada dia a dia, passamos a promover melhorias significativas.*
+
+*Uma vez praticada com constância, a busca pela excelência se torna um hábito, algo natural, que fazemos independentemente da ocasião. Portanto, seja nos negócios ou na vida pessoal, é importante fazer o melhor agora, dentro das possibilidades, almejando passos maiores.*
 
 ## Sobre mim
 
+🕵️‍♂️ *From RJ, Brazil* 🇧🇷
 ⚡ *Apaixonado por Tecnologia;* <br>
 📚 *Cursando Análise e Desenvolvimento de Sistemas;* <br>
 📖 *Cursando Engenharia de Software;* <br>
