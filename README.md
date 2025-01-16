@@ -15,10 +15,10 @@
 ## Sobre mim
 
 🕵️‍♂️ *From RJ, Brazil* 🇧🇷 <br>
+👨 *Front-End Developer* <br>
 ⚡ *Apaixonado por Tecnologia;* <br>
 📚 *Cursando Análise e Desenvolvimento de Sistemas;* <br>
 📖 *Cursando Engenharia de Software;* <br>
-🚀 *Cursando Front-End Development.* <br>
 
 </div>
 
