@@ -1,8 +1,8 @@
-<div align="center">
+<div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nerko+One&weight=500&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=550&lines=Hello+World!;I'm+Felipe+Mascena;I+am+a+Front+End+Developer" alt="Typing SVG" /></a>
 </div><br>
 
-<div align="center">
+<div>
   
 **“Somos o que repetidamente fazemos. A excelência, portanto, não é um feito, mas um hábito”** - *Aristóteles*
 
@@ -22,7 +22,7 @@
 
 </div>
 
-<div align="center">
+<div>
 
 ## Aplicações
 
@@ -42,7 +42,7 @@
 </div>
 
 
-<div align="center">
+<div>
   
 ## Estudando
 
@@ -67,7 +67,7 @@
 <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
 
-<div align="center">
+<div>
   
 ## Ferramentas de desenvolvimento
 
@@ -93,7 +93,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-1877F2?&logo=telegram&logoColor=white)](https://t.me/felipe_mascena17)
 </div>
 
-<div align="center">
+<div>
   
 ## Status
 
@@ -111,7 +111,7 @@
 
 ##
 
-<div align="center">
+<div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nerko+One&weight=500&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=550&lines=Thank+you+for+visiting+my+profile!;Come+back+soon!" alt="Typing SVG" /></a>
 </div>
 
