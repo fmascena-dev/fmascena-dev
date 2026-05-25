@@ -39,6 +39,8 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />  
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
 </div>
 
 
@@ -46,8 +48,6 @@
   
 ## Estudando
 
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
@@ -55,7 +55,6 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
 
 
-###
 
 ## DevOps
 
@@ -77,11 +76,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  /> <br>
 
-##
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=fmascena-dev&label=Visitantes&color=FF0000&style=plastic" alt="fmascena-dev" /> </p>
-
-##
 
 ## Redes Sociais
 
@@ -111,10 +105,14 @@
 
 ##
 
-<div>
+<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nerko+One&weight=500&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=550&lines=Thank+you+for+visiting+my+profile!;Come+back+soon!" alt="Typing SVG" /></a>
 </div>
 
 ##
 
 <p align="center"><img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fmascena-dev/fmascena-dev/output/github-contribution-grid-snake.svg"></p>
+
+##
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=fmascena-dev&label=Visitantes&color=FF0000&style=plastic" alt="fmascena-dev" /> </p>
